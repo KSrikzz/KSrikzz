@@ -80,11 +80,3 @@
 
 </p>
 
-
-## 📊 Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=KSrikzz&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
