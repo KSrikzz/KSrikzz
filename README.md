@@ -8,7 +8,7 @@
 <div align="left">
   
   <p>
-    Aspiring DevOps Engineer with strong interest in CI/CD pipelines, automation workflows, and Machine Learning. Focused on building efficient deployment processes, improving system reliability, and applying data driven approaches to modern infrastructure and software delivery. Committed to continuous learning and hands on experimentation with emerging DevOps and ML tools.
+    Computer Science student with hands on experience engineering local LLM applications and training classical machine learning models. Adept at developing secure backend architectures and actively advancing skills in modern DevOps tooling to automate, containerize, and scale AI-driven microservices.
   </p>
 
   <p>
